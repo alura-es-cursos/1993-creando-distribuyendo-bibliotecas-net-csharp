@@ -1,5 +1,6 @@
 ﻿using ByteBank.Atendimiento.ByteBank.Exceptions;
 using ByteBank.Modelos;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -40,7 +41,7 @@ namespace ByteBank.Atendimiento.ByteBank.Atendimiento
             try
             {
                 char opcion = '0';
-                while (opcion != '6')
+                while (opcion != '7')
                 {
                     Console.Clear();
                     Console.WriteLine("***************************");
@@ -49,7 +50,8 @@ namespace ByteBank.Atendimiento.ByteBank.Atendimiento
                     Console.WriteLine("** 3 - Eliminar cuenta  ***");
                     Console.WriteLine("** 4 - Ordenar cuentas  ***");
                     Console.WriteLine("** 5 - Consultar cuenta ***");
-                    Console.WriteLine("** 6 - Salir            ***");
+                    Console.WriteLine("** 6 - Exportar cuentas ***");
+                    Console.WriteLine("** 7 - Salir            ***");
                     Console.WriteLine("***************************");
                     Console.Write("Seleccione una opción: ");
                     try
@@ -79,6 +81,9 @@ namespace ByteBank.Atendimiento.ByteBank.Atendimiento
                             ConsultarCuentas();
                             break;
                         case '6':
+                            ExportarCuentas();
+                            break;
+                        case '7':
                             Console.WriteLine("****** SALIENDO DE LA APLICACION ******");
                             break;
                         default:
@@ -202,7 +207,7 @@ namespace ByteBank.Atendimiento.ByteBank.Atendimiento
             Console.Write("Número de cuenta:");
 
             string numeroCuenta = Console.ReadLine();
-            
+
             return lstCuentasBancarias.Where(item => item.NumeroCuenta == numeroCuenta).FirstOrDefault();
 
         }
@@ -268,7 +273,7 @@ namespace ByteBank.Atendimiento.ByteBank.Atendimiento
             Console.WriteLine("***************************");
             Console.WriteLine("***   INCLUIR CUENTA    ***");
             Console.WriteLine("***************************");
-            
+
 
             Console.Write("Numero de agencia:");
             string numeroAgencia = Console.ReadLine();
@@ -323,6 +328,43 @@ namespace ByteBank.Atendimiento.ByteBank.Atendimiento
                     Console.WriteLine("********************");
                     Console.ReadLine();
                 }
+            }
+        }
+
+        private void ExportarCuentas()
+        {
+            Console.Clear();
+            Console.WriteLine("***************************");
+            Console.WriteLine("***   EXPORTAR CUENTAS  ***");
+            Console.WriteLine("***************************");
+
+            if (lstCuentasBancarias.Count <= 0)
+            {
+                Console.WriteLine("No hay cuentas registradas para exportar");
+            }
+            else
+            {
+                string cuentasJSON = JsonConvert.SerializeObject(lstCuentasBancarias, Formatting.Indented);
+
+                try
+                {
+                    FileStream fs = new FileStream(@"c:\alura\CSharp\cuentas.json", FileMode.Create);
+                    using (StreamWriter streamWriter = new StreamWriter(fs))
+                    {
+                        streamWriter.WriteLine(cuentasJSON);
+
+                    }
+                    Console.WriteLine(@"Archivo exportado en c:\alura\CSharp\cuentas.json");
+                    Console.ReadKey();
+
+                } catch(Exception exception)
+                {
+                    throw new ByteBankException(exception.Message);
+                    Console.ReadKey();
+                }
+                
+
+
             }
         }
 

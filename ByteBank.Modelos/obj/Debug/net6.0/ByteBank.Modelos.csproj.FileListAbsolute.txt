@@ -1,0 +1,12 @@
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.AssemblyInfoInputs.cache
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.AssemblyInfo.cs
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Modelos\bin\Debug\net6.0\ByteBank.Modelos.deps.json
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Modelos\bin\Debug\net6.0\ByteBank.Modelos.dll
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Modelos\bin\Debug\net6.0\ByteBank.Modelos.pdb
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.dll
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Modelos\obj\Debug\net6.0\refint\ByteBank.Modelos.dll
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Modelos\obj\Debug\net6.0\ByteBank.Modelos.pdb
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Modelos\obj\Debug\net6.0\ref\ByteBank.Modelos.dll

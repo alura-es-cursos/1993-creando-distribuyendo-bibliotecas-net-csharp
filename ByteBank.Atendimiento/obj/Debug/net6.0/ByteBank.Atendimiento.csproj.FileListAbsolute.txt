@@ -32,3 +32,7 @@ C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Atendimiento\obj\Debug\net6.0\re
 C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Atendimiento\obj\Debug\net6.0\ByteBank.Atendimiento.pdb
 C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Atendimiento\obj\Debug\net6.0\ByteBank.Atendimiento.genruntimeconfig.cache
 C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Atendimiento\obj\Debug\net6.0\ref\ByteBank.Atendimiento.dll
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Atendimiento\bin\Debug\net6.0\ByteBank.Modelos.dll
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Atendimiento\bin\Debug\net6.0\ByteBank.Modelos.pdb
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Atendimiento\obj\Debug\net6.0\ByteBank.Atendimiento.csproj.CopyComplete
+C:\CursosCSharp\CursocSharp10\Solucion\ByteBank.Atendimiento\bin\Debug\net6.0\Newtonsoft.Json.dll

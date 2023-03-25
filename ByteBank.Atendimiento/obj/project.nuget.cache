@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Bb0WfG974EF8KOwkxKA2T/p5rRLDFahYwDfeTamO/euEirA9dkd9ZMNrHH8bS7n4R1oL65LhGgXmmI6EzdbUVQ==",
+  "dgSpecHash": "XmOf8yLgsnegfTnUgBPsS8krgQSkkg/Gi7PECW4DfchhZc8TpwBjSnDX5vTSvSGP7iEMupSApwBFONxaGFTJNw==",
   "success": true,
   "projectFilePath": "C:\\CursosCSharp\\CursocSharp10\\Solucion\\ByteBank.Atendimiento\\ByteBank.Atendimiento.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ljcl7\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
