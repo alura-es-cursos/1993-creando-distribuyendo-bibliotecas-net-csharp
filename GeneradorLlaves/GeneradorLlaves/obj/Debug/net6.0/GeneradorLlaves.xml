@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GeneradorLlaves</name>
+    </assembly>
+    <members>
+        <member name="T:ByteBank.GeneradorLlaves.GeneradorLlaves">
+            <summary>
+            Clase estática que construye llaves únicas para cuentas bancarias
+            </summary>
+        </member>
+        <member name="M:ByteBank.GeneradorLlaves.GeneradorLlaves.GeneraLlaveUnica">
+            <summary>
+            Método estático que genera una llave única, usando la clase Guid.
+            </summary>
+            <returns>La llave única en una cadena de caracteres.</returns>
+        </member>
+        <member name="M:ByteBank.GeneradorLlaves.GeneradorLlaves.GeneraLlavesUnicas(System.Int32)">
+            <summary>
+            Método estático que permite generar múltiples llaves únicas, usando la clase Guid
+            </summary>
+            <param name="cantidad">Cantidad de llaves a generar : tipo entero</param>
+            <returns>Una lista de cadenas de caracteres que contiene en cada elemento una llave única</returns>
+        </member>
+    </members>
+</doc>

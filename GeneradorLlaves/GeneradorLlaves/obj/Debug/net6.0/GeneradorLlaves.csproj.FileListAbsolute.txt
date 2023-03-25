@@ -1,0 +1,14 @@
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\bin\Debug\net6.0\GeneradorLlaves.deps.json
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\bin\Debug\net6.0\GeneradorLlaves.dll
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\bin\Debug\net6.0\GeneradorLlaves.pdb
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\obj\Debug\net6.0\GeneradorLlaves.csproj.AssemblyReference.cache
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\obj\Debug\net6.0\GeneradorLlaves.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\obj\Debug\net6.0\GeneradorLlaves.AssemblyInfoInputs.cache
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\obj\Debug\net6.0\GeneradorLlaves.AssemblyInfo.cs
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\obj\Debug\net6.0\GeneradorLlaves.csproj.CoreCompileInputs.cache
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\obj\Debug\net6.0\GeneradorLlaves.dll
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\obj\Debug\net6.0\refint\GeneradorLlaves.dll
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\obj\Debug\net6.0\GeneradorLlaves.pdb
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\obj\Debug\net6.0\ref\GeneradorLlaves.dll
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\bin\Debug\net6.0\GeneradorLlaves.xml
+C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\obj\Debug\net6.0\GeneradorLlaves.xml

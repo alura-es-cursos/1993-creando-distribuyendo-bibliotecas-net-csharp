@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GeneradorLlaves</id>
+    <version>1.0.0</version>
+    <title>ByteBank.GeneradorLlaves</title>
+    <authors>GeneradorLlaves</authors>
+    <description>Este paquete permite generar llaves únicas que se pueden asociar a cuentas bancarias.</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\bin\Debug\net6.0\GeneradorLlaves.dll" target="lib\net6.0\GeneradorLlaves.dll" />
+    <file src="C:\CursosCSharp\CursocSharp10\GeneradorLlaves\GeneradorLlaves\bin\Debug\net6.0\GeneradorLlaves.xml" target="lib\net6.0\GeneradorLlaves.xml" />
+  </files>
+</package>
