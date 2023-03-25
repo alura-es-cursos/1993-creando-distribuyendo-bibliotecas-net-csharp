@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ByteBank.Modelos</name>
+    </assembly>
+    <members>
+        <member name="T:ByteBank.Modelos.CuentaBancaria">
+            <summary>
+            Esta clase define el modelo de las cuentas bancarias de ByteBank
+            </summary>
+        </member>
+        <member name="M:ByteBank.Modelos.CuentaBancaria.#ctor(System.String,System.String)">
+            <summary>
+            Constructor de la clase CuentaBancaria de ByteBank
+            </summary>
+            <param name="_numero_cuenta">El parametro <see cref="F:ByteBank.Modelos.CuentaBancaria._numero_cuenta"/> almacena el número de la cuenta bancaria. No puede ser vacío</param>
+            <param name="_numero_agencia">El parametro <see cref="F:ByteBank.Modelos.CuentaBancaria._numero_agencia"/> almacena el número de la agencia donde está la cuenta bancaria. No puede ser vacío</param>
+        </member>
+        <member name="P:ByteBank.Modelos.CuentaBancaria.Cliente">
+            <summary>
+            Esta propiedad hace referencia a la instancia de Cliente
+            </summary>
+        </member>
+        <member name="M:ByteBank.Modelos.CuentaBancaria.RetirarDinero(System.Double)">
+            <summary>
+            Este método permite disminuir el saldo de la cuenta a partir de un retiro.
+            </summary>
+            <param name="valorARetirar">Es el valor a retirar de la cuenta.</param>
+            <returns></returns>
+            <exception cref="T:ByteBank.Modelos.SaldoInsuficienteException">Esta excepción es generada cuando se intenta retirar un valor mayor al saldo disponible</exception>
+            <exception cref="T:System.ArgumentException">Se dispara la excepción cuando se intenta hacer un retiro de un valor negativo</exception>
+        </member>
+    </members>
+</doc>
