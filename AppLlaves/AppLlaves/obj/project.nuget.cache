@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aqXobEyxj5R6c8mvGFHrMrgdzBqF3zvpRfTeHVJvYrHtD21G/k7JcGlOiy5tHVG04SbIdF7rbA4HVjVQxfF/SA==",
+  "success": true,
+  "projectFilePath": "C:\\CursosCSharp\\CursocSharp10\\AppLlaves\\AppLlaves\\AppLlaves.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ljcl7\\.nuget\\packages\\generadorllaves\\1.0.0\\generadorllaves.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

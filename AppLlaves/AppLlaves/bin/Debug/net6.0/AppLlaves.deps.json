@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AppLlaves/1.0.0": {
+        "dependencies": {
+          "GeneradorLlaves": "1.0.0"
+        },
+        "runtime": {
+          "AppLlaves.dll": {}
+        }
+      },
+      "GeneradorLlaves/1.0.0": {
+        "runtime": {
+          "lib/net6.0/GeneradorLlaves.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppLlaves/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeneradorLlaves/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RvJXgIkgeP71VigpUF8SQsq2SAQ6Yqw9MTlqq3OTSoHXVqlbIa4wjArBUc90Tp1My/ADBg1wXfc3JJOUGNzLdg==",
+      "path": "generadorllaves/1.0.0",
+      "hashPath": "generadorllaves.1.0.0.nupkg.sha512"
+    }
+  }
+}

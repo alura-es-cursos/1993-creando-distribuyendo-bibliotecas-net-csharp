@@ -1,0 +1,17 @@
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\bin\Debug\net6.0\AppLlaves.exe
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\bin\Debug\net6.0\AppLlaves.deps.json
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\bin\Debug\net6.0\AppLlaves.runtimeconfig.json
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\bin\Debug\net6.0\AppLlaves.dll
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\bin\Debug\net6.0\AppLlaves.pdb
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\bin\Debug\net6.0\GeneradorLlaves.dll
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\obj\Debug\net6.0\AppLlaves.csproj.AssemblyReference.cache
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\obj\Debug\net6.0\AppLlaves.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\obj\Debug\net6.0\AppLlaves.AssemblyInfoInputs.cache
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\obj\Debug\net6.0\AppLlaves.AssemblyInfo.cs
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\obj\Debug\net6.0\AppLlaves.csproj.CoreCompileInputs.cache
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\obj\Debug\net6.0\AppLlaves.csproj.CopyComplete
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\obj\Debug\net6.0\AppLlaves.dll
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\obj\Debug\net6.0\refint\AppLlaves.dll
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\obj\Debug\net6.0\AppLlaves.pdb
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\obj\Debug\net6.0\AppLlaves.genruntimeconfig.cache
+C:\CursosCSharp\CursocSharp10\AppLlaves\AppLlaves\obj\Debug\net6.0\ref\AppLlaves.dll
