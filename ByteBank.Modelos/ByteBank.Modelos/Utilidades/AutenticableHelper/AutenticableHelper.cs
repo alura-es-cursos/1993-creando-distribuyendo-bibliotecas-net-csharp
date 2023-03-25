@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Modelos
 {
-    public class AutenticableHelper
+    internal class AutenticableHelper
     {
         public bool compararClave(String _clave, string clave)
         {

@@ -13,7 +13,7 @@ namespace ByteBank.Modelos
             Console.WriteLine("Constructor Analista");
         }
 
-        public override double obtenerBonificacion()
+        internal override double obtenerBonificacion()
         {
             return this.Salario * 0.20;
         }

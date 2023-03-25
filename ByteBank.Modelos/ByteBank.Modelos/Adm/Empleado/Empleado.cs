@@ -26,7 +26,7 @@ namespace ByteBank.Modelos
 
         
 
-        public abstract double obtenerBonificacion();
+        protected internal abstract double obtenerBonificacion();
 
         public virtual void aumentarSalario()
         {

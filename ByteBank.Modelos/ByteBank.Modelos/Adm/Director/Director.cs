@@ -17,7 +17,7 @@ namespace ByteBank.Modelos
         
         public string Departamento { get; set; }
 
-        public override double obtenerBonificacion()
+        internal override double obtenerBonificacion()
         {
             return this.Salario * 0.50;
 

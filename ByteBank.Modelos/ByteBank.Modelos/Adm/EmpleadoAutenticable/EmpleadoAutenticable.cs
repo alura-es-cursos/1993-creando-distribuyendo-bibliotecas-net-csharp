@@ -19,7 +19,7 @@ namespace ByteBank.Modelos
             return _helper.compararClave(Clave, clave);
         }
 
-        public override double obtenerBonificacion()
+        internal override double obtenerBonificacion()
         {
             return 0;
         }

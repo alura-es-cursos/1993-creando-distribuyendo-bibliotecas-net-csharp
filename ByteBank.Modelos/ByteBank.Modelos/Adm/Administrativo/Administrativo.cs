@@ -14,7 +14,7 @@ namespace ByteBank.Modelos
             Console.WriteLine("Constructor Administrativo");
         }
 
-        public override double obtenerBonificacion()
+        internal override double obtenerBonificacion()
         {
             return this.Salario * 0.15;
         }
